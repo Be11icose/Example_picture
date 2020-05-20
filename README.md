@@ -1,2 +1,2 @@
 # Example_picture
-![alt text](DB_project/scheme.png "Описание будет тут")
+![alt text](Be11icose/DB_project/blob/master/scheme.png "Описание будет тут")
