@@ -1,2 +1,5 @@
 # Example_picture
-![alt text](DB_project/scheme.png "Описание будет тут")
+
+<br>
+<img height="700" src="https://github.com/Be11icose/DB_project/blob/master/scheme.png"/>
+<br>
